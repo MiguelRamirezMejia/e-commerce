@@ -23,7 +23,8 @@
 
   .btn-13 {
     background-color: #89d8d3;
-  background-image: linear-gradient(315deg, #89d8d3 0%, #03c8a8 74%);
+  background-image: linear-gradient(315deg, #800080 0%, #8A2BE2 74%);
+
     border: none;
     z-index: 1;
     
@@ -38,7 +39,8 @@
     z-index: -1;
     border-radius: 25px;
      background-color: #4dccc6;
-  background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
+  background-image: linear-gradient(315deg, #8A2BE2 0%, #9370DB 74%);
+
     box-shadow:
      -7px -7px 20px 0px #fff9,
      -4px -4px 5px 0px #fff9,
@@ -89,7 +91,8 @@
     z-index: -1;
     border-radius: 25px;
      background-color: #4dccc6;
-  background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
+  background-image: linear-gradient(315deg, #8A2BE2 0%, #9370DB 74%);
+
     box-shadow:
      -7px -7px 20px 0px #fff9,
      -4px -4px 5px 0px #fff9,
